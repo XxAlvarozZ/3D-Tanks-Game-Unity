@@ -9,6 +9,4 @@ Este repositorio es un Fork del proyecto original "TANKS!". He agregado las sigu
  </br>
  <img  src="Images/playing.jpg" width="600px" >
  </br>
- <img  src="Images/winner_annoucement.jpg" width="600px" >
- </br>
 </p>
